@@ -10,7 +10,7 @@ float result = 0.00F;
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(9600); // Setting up Serial communication
 }
 
 void loop()
@@ -22,6 +22,6 @@ void loop()
   Serial.print("Result :");
 
   Serial.println(result);
-  
+
   delay(1000);
 }
