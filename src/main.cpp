@@ -15,7 +15,7 @@ void setup()
 
 void loop()
 {
-  counter++;
+  counter++; // counter = counter + 1
 
   result = counter + errorValue;
 
