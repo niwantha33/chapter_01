@@ -1,4 +1,4 @@
-#Variables (Global and Local)
+# Variables (Global and Local)
 
 program එක   ක්‍රියාත්මක කිරීමේදී වෙනස් විය හැකි අගයන්  විචල්‍යයක් ලෙස හැඳින්වේ.
  
